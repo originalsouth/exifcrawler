@@ -13,8 +13,11 @@ This code is (and forever will be) a work in progress.
 
 ### Running
 This program is written for python3.
+
 You will need BeautifulSoup, UserAgent and  p3exiv2 to run.
-You can use pip to install the.
+
+You can use pip to install them.
+
 Scraping from a "random" site:
 ```
 ./exifcrawler.py
