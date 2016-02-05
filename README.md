@@ -1,7 +1,7 @@
 # exifcrawler
 Ever wanted to scrape some GPS data of the internet?
 ```
-#By BC van Zuiden -- Leiden, November 2016 */
+#By BC van Zuiden -- Leiden, February 2016 */
 #Probably very buggy USE AT OWN RISK this will brick everything you own */
 #NOBODY but YOU is liable for anything that happened in result of using this */
 #WARNING: DON'T RUN THIS PROGRAM THIS WILL DESTROY YOUR COMPUTER AND/OR HOUSE */
